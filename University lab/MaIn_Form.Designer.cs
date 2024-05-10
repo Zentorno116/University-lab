@@ -3,6 +3,7 @@
     partial class Main_Form
 
     {
+        /// Если перестала запускаться, переоткройте решение, чтобы оно не выпендривалось
         /// <summary>
         ///  Required designer variable.
         /// </summary>
@@ -59,7 +60,6 @@
             lToolStripMenuItem.Name = "lToolStripMenuItem";
             lToolStripMenuItem.Size = new Size(90, 24);
             lToolStripMenuItem.Text = "Добавить";
-;
             // 
             // изменитьToolStripMenuItem
             // 
